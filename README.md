@@ -1,5 +1,7 @@
 # SmartSpend — AI-Powered Expense Tracker
 
+🔗 **Live Demo:** [https://smart-spend-livid.vercel.app/](https://smart-spend-livid.vercel.app/)
+
 Upload a receipt photo → AI extracts the store, date, amount and category → expenses are tracked automatically.
 
 ---
